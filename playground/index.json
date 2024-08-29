@@ -1,0 +1,20 @@
+{
+    "title": "Hands-on: workshop AWS Lambda",
+    "description": "Let users copy or exec code blocks",
+    "details": {
+      "intro": {
+        "text": "demo.md"
+      },
+      "steps": [
+        {
+          "text": "step1.md"
+          foreground.sh
+
+        }
+      ]
+    },
+    "backend": {
+      "imageid": "ubuntu"
+
+    }
+  }
