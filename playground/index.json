@@ -1,6 +1,6 @@
 {
     "title": "Hands-on: workshop AWS Lambda",
-    "description": "Let users copy or exec code blocks",
+    "description": "AWS Lambda Using StackGen",
     "details": {
       "intro": {
         "text": "demo.md"
@@ -8,7 +8,6 @@
       "steps": [
         {
           "text": "step1.md",
-          "background": "install.sh",
           "foreground": "install.sh"
         }
       ]
