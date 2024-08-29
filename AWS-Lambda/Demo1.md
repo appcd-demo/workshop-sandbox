@@ -13,7 +13,7 @@ curl -sL https://git.io/_has | bash -s terraform aws git zip unzip python3
 
 #### Step 1 : Open appcd portal via cloud.app.io 
 
-![](./screenshoots/login-page.png)
+![](./news-feed-img/login-page.png)
 
 #### Step2 : login with your creditionals 
 
@@ -28,18 +28,18 @@ Pipfile  build.sh main.py  main.zip package
 #### Let's Onboard Your Repositories
 
 
-![](./screenshoots/Create-appstack.png)
+![](./news-feed-img/Create-appstack.png)
 
-![](./screenshoots/step2.png)
+![](./news-feed-img/step2.png)
 
 
 
 ### Add Public Repositories 
 
-![](./screenshoots/step3.png)
+![](./news-feed-img/step3.png)
 
 ### Create appstack 
-![](./screenshoots/Create-appstack.png)
+![](./news-feed-img/Create-appstack.png)
 
 
 ### Select AppStack from Source Code 
@@ -49,32 +49,32 @@ Pipfile  build.sh main.py  main.zip package
 > 4. Dockerfile path 
 
 
-![](./screenshoots/step4.png)
+![](./news-feed-img/step4.png)
 
 > 5. Click on proceed 
 
 
 ### Select Cloud Service ( where you want to deploy your application base )
 
-![](./screenshoots/step6.png)
+![](./news-feed-img/step6.png)
 
 > Select AWS Lambda ( because our application is AWS lambda python Application )
 
 
 ## apply Security Policies base on Services 
 
-![](./screenshoots/step7.png)
+![](./news-feed-img/step7.png)
 
 ### AppStack will analyze your application 
 
 
-![](./screenshoots/step8.png)
+![](./news-feed-img/step8.png)
 
 
 ### Expand app view 
 
 
-![](./screenshoots/step-9.png)
+![](./news-feed-img/step-9.png)
 
 > click on veriosn 1 
 
@@ -82,28 +82,28 @@ Pipfile  build.sh main.py  main.zip package
 ### Visualize your deployment architecture 
 
 
-![](./screenshoots/step10.png)
+![](./news-feed-img/step10.png)
 
 
 > Click on news-feed function 
 
-![](./screenshoots/step11.png)
+![](./news-feed-img/step11.png)
 
 
 >  
 
-![](./screenshoots/step12.png)
+![](./news-feed-img/step12.png)
 
 add Filename as `main.zip`
 
 > Create Function URL set as `true` 
 
-![](./screenshoots/Step13.png)
+![](./news-feed-img/Step13.png)
 
 
 ### Export the IaC from appStack 
 
-![](./screenshoots/step14.png)
+![](./news-feed-img/step14.png)
 
 
 
@@ -198,7 +198,7 @@ aws_lambda_news_feed_function_invoke_arn = "arn:aws:apigateway:us-east-1:lambda:
 ### Cheers we deployed our news application 
 
 ```
-aws_lambda_news_feed_function_function_url = "https://ue3z4eswm24a6kvncbp3d7joi40mdkqc.lambda-url.us-east-1.on.aws
+aws_lambda_news_feed_function_function_url = <Your AWS Lambda URL> 
 
 ```
 

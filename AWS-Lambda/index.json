@@ -3,13 +3,19 @@
     "description": "AWS Lambda Using StackGen",
     "details": {
       "intro": {
-        "text": "demo.md"
+        "text": "TOC.md"
       },
       "steps": [
         {
-          "text": "step1.md",
+          "text": "Demo1.md",
           "foreground": "install.sh"
-        }
+        } ,
+        {
+          "text": "Demo2.md",
+          "foreground": "install.sh"
+
+        } 
+
       ]
     },
     "backend": {
