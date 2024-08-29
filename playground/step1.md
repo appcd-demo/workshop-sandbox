@@ -23,7 +23,7 @@ Pipfile  build.sh main.py  main.zip package
 #### Let's Onboard Your Repositories
 
 
-![](./screenshoots/)
+![](./screenshoots/Create-appstack.png)
 
 ![](./screenshoots/step2.png)
 
