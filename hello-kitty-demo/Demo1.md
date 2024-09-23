@@ -1,8 +1,5 @@
 
 
-<a href="https://appCD.com"><img src="https://img.shields.io/badge/appCD.com-141416?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODcuNSA2MDAiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6ICM3OWM4NDI7CiAgICAgIH0KCiAgICAgIC5jbHMtMSwgLmNscy0yIHsKICAgICAgICBzdHJva2Utd2lkdGg6IDBweDsKICAgICAgfQoKICAgICAgLmNscy0yIHsKICAgICAgICBmaWxsOiAjM2VhOGY0OwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Im0yNDguODUsMzEzLjJsLTQzLjA4LDQzLjA4YzMuODcsMTIuNzIuODEsMjcuMS05LjIzLDM3LjE0bC05Mi45NSw5Mi45NWMtMTAuOTYsMTAuOTYtMTEuMDEsMjguODQtLjExLDM5Ljg1LDUuMzMsNS4zOSwxMi40NCw4LjM2LDIwLjAxLDguMzhoLjA4YzcuNTUsMCwxNC42NC0yLjk0LDE5Ljk4LTguMjhsMTM5LjIzLTEzOS4yM2MxMS4wMi0xMS4wMiwxMS4wMi0yOC45NCwwLTM5Ljk2bC0zMy45My0zMy45M1oiLz4KICA8cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Im0xMjQuNiw0MDAuMzdoLjA4YzcuNTUsMCwxNC42NC0yLjk0LDE5Ljk4LTguMjhsMTM5LjIzLTEzOS4yM2M1LjM0LTUuMzQsOC4yOC0xMi40Myw4LjI4LTE5Ljk4cy0yLjk0LTE0LjY0LTguMjgtMTkuOThMMTQ0LjY1LDczLjY3Yy01LjM0LTUuMzQtMTIuNDMtOC4yOC0xOS45OC04LjI4aC0uMDhjLTcuNTguMDItMTQuNjgsMy0yMC4wMSw4LjM4LTEwLjksMTEuMDItMTAuODUsMjguOS4xLDM5Ljg1bDkyLjk1LDkyLjk0YzcuMDMsNy4wMywxMC45LDE2LjM3LDEwLjksMjYuMzFzLTMuODcsMTkuMjgtMTAuOSwyNi4zMWwtOTIuOTUsOTIuOTVjLTEwLjk2LDEwLjk2LTExLjAxLDI4Ljg0LS4xLDM5Ljg1LDUuMzMsNS4zOSwxMi40NCw4LjM2LDIwLjAxLDguMzhaIi8+CiAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJtMTQzLjU1LDIwNy45Yy01LjM0LTUuMzQtMTIuNDMtOC4yOC0xOS45OC04LjI4aC0uMDhjLTcuNTguMDItMTQuNjgsMy0yMC4wMSw4LjM4LTEwLjksMTEuMDItMTAuODUsMjguOS4xMSwzOS44NWw0MC4wMyw0MC4wMywzOS45Ni0zOS45Ni00MC4wMy00MC4wM1oiLz4KPC9zdmc+&labelColor=141416&logoColor=white" alt="badge for appCD.com" height=35 /></a>
-<a href="https://docs.appCD.io/getting-started"><img src="https://img.shields.io/badge/appCD%20docs-141416?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODcuNSA2MDAiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6ICM3OWM4NDI7CiAgICAgIH0KCiAgICAgIC5jbHMtMSwgLmNscy0yIHsKICAgICAgICBzdHJva2Utd2lkdGg6IDBweDsKICAgICAgfQoKICAgICAgLmNscy0yIHsKICAgICAgICBmaWxsOiAjM2VhOGY0OwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Im0yNDguODUsMzEzLjJsLTQzLjA4LDQzLjA4YzMuODcsMTIuNzIuODEsMjcuMS05LjIzLDM3LjE0bC05Mi45NSw5Mi45NWMtMTAuOTYsMTAuOTYtMTEuMDEsMjguODQtLjExLDM5Ljg1LDUuMzMsNS4zOSwxMi40NCw4LjM2LDIwLjAxLDguMzhoLjA4YzcuNTUsMCwxNC42NC0yLjk0LDE5Ljk4LTguMjhsMTM5LjIzLTEzOS4yM2MxMS4wMi0xMS4wMiwxMS4wMi0yOC45NCwwLTM5Ljk2bC0zMy45My0zMy45M1oiLz4KICA8cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Im0xMjQuNiw0MDAuMzdoLjA4YzcuNTUsMCwxNC42NC0yLjk0LDE5Ljk4LTguMjhsMTM5LjIzLTEzOS4yM2M1LjM0LTUuMzQsOC4yOC0xMi40Myw4LjI4LTE5Ljk4cy0yLjk0LTE0LjY0LTguMjgtMTkuOThMMTQ0LjY1LDczLjY3Yy01LjM0LTUuMzQtMTIuNDMtOC4yOC0xOS45OC04LjI4aC0uMDhjLTcuNTguMDItMTQuNjgsMy0yMC4wMSw4LjM4LTEwLjksMTEuMDItMTAuODUsMjguOS4xLDM5Ljg1bDkyLjk1LDkyLjk0YzcuMDMsNy4wMywxMC45LDE2LjM3LDEwLjksMjYuMzFzLTMuODcsMTkuMjgtMTAuOSwyNi4zMWwtOTIuOTUsOTIuOTVjLTEwLjk2LDEwLjk2LTExLjAxLDI4Ljg0LS4xLDM5Ljg1LDUuMzMsNS4zOSwxMi40NCw4LjM2LDIwLjAxLDguMzhaIi8+CiAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJtMTQzLjU1LDIwNy45Yy01LjM0LTUuMzQtMTIuNDMtOC4yOC0xOS45OC04LjI4aC0uMDhjLTcuNTguMDItMTQuNjgsMy0yMC4wMSw4LjM4LTEwLjksMTEuMDItMTAuODUsMjguOS4xMSwzOS44NWw0MC4wMyw0MC4wMywzOS45Ni0zOS45Ni00MC4wMy00MC4wM1oiLz4KPC9zdmc+&labelColor=141416&logoColor=white" alt="badge for appCD docs" height=35 /></a>
-
 ## verify all required software installed correctly
 
 ```
@@ -13,7 +10,7 @@ curl -sL https://git.io/_has | bash -s terraform aws git zip unzip python3
 
 #### Step 1 : Open appcd portal via cloud.app.io 
 
-![](./news-feed-img/login-page.png)
+![](./login-page.png)
 
 #### Step2 : login with your creditionals 
 
@@ -28,18 +25,18 @@ Pipfile  build.sh main.py  main.zip package
 #### Let's Onboard Your Repositories
 
 
-![](./news-feed-img/Create-appstack.png)
+![](./Create-appstack.png)
 
-![](./news-feed-img/step2.png)
+![](./step2.png)
 
 
 
 ### Add Public Repositories 
 
-![](./news-feed-img/step3.png)
+![](./step3.png)
 
 ### Create appstack 
-![](./news-feed-img/Create-appstack.png)
+![](./Create-appstack.png)
 
 
 ### Select AppStack from Source Code 
@@ -49,32 +46,32 @@ Pipfile  build.sh main.py  main.zip package
 > 4. Dockerfile path 
 
 
-![](./news-feed-img/step4.png)
+![](./step4.png)
 
 > 5. Click on proceed 
 
 
 ### Select Cloud Service ( where you want to deploy your application base )
 
-![](./news-feed-img/step6.png)
+![](./step6.png)
 
 > Select AWS Lambda ( because our application is AWS lambda python Application )
 
 
 ## apply Security Policies base on Services 
 
-![](./news-feed-img/step7.png)
+![](./step7.png)
 
 ### AppStack will analyze your application 
 
 
-![](./news-feed-img/step8.png)
+![](./step8.png)
 
 
 ### Expand app view 
 
 
-![](./news-feed-img/step-9.png)
+![](./step-9.png)
 
 > click on veriosn 1 
 
@@ -82,28 +79,28 @@ Pipfile  build.sh main.py  main.zip package
 ### Visualize your deployment architecture 
 
 
-![](./news-feed-img/step10.png)
+![](./step10.png)
 
 
 > Click on news-feed function 
 
-![](./news-feed-img/step11.png)
+![](./step11.png)
 
 
 >  
 
-![](./news-feed-img/step12.png)
+![](./step12.png)
 
 add Filename as `main.zip`
 
 > Create Function URL set as `true` 
 
-![](./news-feed-img/Step13.png)
+![](./Step13.png)
 
 
 ### Export the IaC from appStack 
 
-![](./news-feed-img/step14.png)
+![](./step14.png)
 
 
 

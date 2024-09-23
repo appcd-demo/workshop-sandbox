@@ -1,7 +1,5 @@
-#  Build Ship Your AWS Lambda Application Faster and Secure with StackGen 
+#  Demo 2
 
-| Demo No | Table of Content | Language |  
-| ----- | -----------------|----------|
-| 1 | News Feed | Python |
-| 2 | Hello Kitty | Python | 
+- hello-kitty Severless application deployment using StackGen 
 
+> Click on start to spin up standbox with all requirement 

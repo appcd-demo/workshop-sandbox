@@ -1,6 +1,6 @@
 {
     "items": [
-      { "path": "hello-kitty-demo" },
-      { "path": "news-feed-demo" }
+        { "path": "news-feed-demo" },
+      { "path": "hello-kitty-demo" }
     ]
   }
