@@ -4,5 +4,4 @@
 | ----- | -----------------|----------|
 | 1 | News Feed | Python |
 | 2 | Hello Kitty | Python | 
-| 3 |             | Python | 
 

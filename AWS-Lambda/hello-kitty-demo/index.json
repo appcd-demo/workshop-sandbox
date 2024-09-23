@@ -1,0 +1,18 @@
+{
+	"title": "Hands-on: workshop AWS Lambda",
+	"description": "AWS Lambda Using StackGen",
+	"details": {
+		"intro": {
+			"text": "TOC.md"
+		},
+		"steps": [
+			{
+				"text": "Demo1.md",
+				"foreground": "install.sh"
+			}
+		]
+	},
+	"backend": {
+		"imageid": "ubuntu"
+	}
+}
