@@ -1,7 +1,4 @@
-# workshop-sandbox
+# StackGen Sandbox 
 
-add your Working demo with Repo link 
 
-- [News Feed]()
-- [Hello-Kitty]()
 
