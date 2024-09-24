@@ -87,3 +87,9 @@ Install zip
 ```
 choco install zip
 ```
+
+install terraform 
+
+```
+choco install terraform --pre 
+```
