@@ -62,6 +62,10 @@ open powershell and past this
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iwr https://community.chocolatey.org/install.ps1 -UseBasicParsing | iex
 ```
 
+MSI installer 
+
+https://github.com/chocolatey/choco/releases/download/2.3.0/chocolatey-2.3.0.0.msi
+
 Intall python 
 
 ```
