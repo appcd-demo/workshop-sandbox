@@ -5,7 +5,10 @@
 > add hello kitty repo link 
 
 ```
-https://github.com/appcd-demo/hello-kitty
+curl -sL https://git.io/_has | bash -s terraform aws git zip unzip python3
+apt install zip
+git clone https://github.com/appcd-demo/hello-kitty
+cd hello-kitty
 make build 
 app.zip
 ```
