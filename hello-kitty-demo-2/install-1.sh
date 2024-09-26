@@ -1,3 +1,4 @@
+#!/bin/bash
 CURR_VER=$(curl -s https://checkpoint-api.hashicorp.com/v1/check/terraform | jq -r -M '.current_version')
 # Download the Terraform zip file
 curl -LO "https://releases.hashicorp.com/terraform/${CURR_VER}/terraform_${CURR_VER}_linux_amd64.zip"
