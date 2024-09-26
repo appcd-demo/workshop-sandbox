@@ -2,6 +2,16 @@
 
 ### Hello Kitty 
 
+login to your github account 
+
+open following link 
+
+ https://github.com/appcd-demo/hello-kitty
+
+click on fork button select your account 
+
+![](./0.png)
+
 > add hello kitty repo link 
 
 ```
@@ -12,53 +22,87 @@ cd hello-kitty
 make build 
 app.zip
 ```
+login to [cloud.stackgen.com](https://cloud.stackgen.com/)
 
-![](./step2.png)
+To get the AWS Lambda setup we need, we’ll use StackGen’s infrastructure from code capability to generate the IaC we need for speedy deployment.
+
+To run StackGen, we are going to:
+Log in.
+Create an appStack from our hello kitty code repository, and
+Get our topology.
+Log in
+First, log in to cloud.appcd.io. If you don’t have an account, you can easily log in with your GitHub, GitLab, Google, or BitBucket credentials.
 
 
-![](./step3.png)
+
+![](./1.png)
+
+![](./2.png)
+
+![](./3.png)
 
 
-![](./step1.png)
+![](./4.png)
 
+![](./5.png)
+
+![](./6.png)
 
 ### analyze this repo 
 
-
-![](./topology.png)
+![](./7.png)
 
 > Click on `hello-kitty-function` 
 
 add filename `app.zip` 
+
+change function name should be unique for all 
+
+![](./lambda-service-namechange.png)
+
+![](./8.png)
+
+add Environment Variables
 set function url as `true`
-
-![](./step4.png)
-![](./step5.png)
-![](./step6.png)
-
+![](./9.png)
 click on save 
 
 ### add s3 bucket name same by clicking on s3 bucket topology
 
-![](./step7.png)
+![](./10.png)
 
-Click on save 
-### Download the IaC
+click on save 
+
+## change name hello-kitty role should be unique 
+
+![](./change-iam-role-name.png)
+
+## change name of cloud watch log group should be unique
+
+![](./change-watch-log-group.png)
+
+### export iac locally 
+
+![](./export-iac.png)
+
+### go to your killerKoda sandbox and click on Editor tab 
+
+now you see your file directory 
+
+left click and you will see this option to upload file 
+
+![](./upload-exported-iac.png)
 
 
-![](./download_iac.png)
-
-
-### create terraform folder and unzip and add to terraform folder 
+### upload generated tf to build folder 
 
 
 ```
-(base) ➜ makdir terraform 
-(base) ➜ cd terraform 
-(base) ➜  terraform git:(main) ✗ ls
+
+(base) ➜  build ✗ ls
 
 README.md         modules           outputs.tf        terraform.tfstate images 
-main.zip          modules.tf.json   provider.tf       variables.tf
+app.zip          modules.tf.json   provider.tf       variables.tf
 
 ```
 #### apply your AWS credentials 
