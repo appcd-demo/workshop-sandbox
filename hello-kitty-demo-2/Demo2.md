@@ -1,8 +1,17 @@
  
+
+#  before installing terraform install Jq and zip unzip
+
 ```
-#!/bin/bash
 sudo apt-get install -y jq
 sudo apt-get install -y zip unzip
+
+```
+
+### Install terraform , python , awscli 
+
+```
+#!/bin/bash
 # Get the current version of Terraform
 CURR_VER=$(curl -s https://checkpoint-api.hashicorp.com/v1/check/terraform | jq -r -M '.current_version')
 # Download the Terraform zip file
