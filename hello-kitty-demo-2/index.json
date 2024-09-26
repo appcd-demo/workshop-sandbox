@@ -8,8 +8,8 @@
 		"steps": [
 			{
 				"text": "Demo2.md",
-				"background": "install.sh",
-				"foreground": "install-1.sh"
+				"background": "install-1.sh",
+				"foreground": "install.sh"
 				 
 			}
 		]
