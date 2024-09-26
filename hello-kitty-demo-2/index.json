@@ -8,10 +8,13 @@
 		"steps": [
 			{
 				"text": "Demo2.md",
-				"foreground": "install.sh",
-				"foreground": "install-1.sh"
+				"foreground": "install.sh"
 				 
-			}
+			},
+				{
+					"foreground": "install-1.sh"
+					 
+				}
 		]
 	},
 	"backend": {
