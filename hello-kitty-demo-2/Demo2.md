@@ -47,12 +47,9 @@ click on fork button select your account
 > add hello kitty repo link 
 
 ```
-curl -sL https://git.io/_has | bash -s terraform aws git zip unzip python3
-apt install zip
 git clone https://github.com/appcd-demo/hello-kitty
 cd hello-kitty
 make build 
-app.zip
 ```
 login to [cloud.stackgen.com](https://cloud.stackgen.com/)
 
