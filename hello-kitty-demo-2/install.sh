@@ -1,5 +1,7 @@
 #!/bin/bash
 # Get the current version of Terraform
+sudo apt-get install -y jq
+sudo apt-get install -y zip unzip
 CURR_VER=$(curl -s https://checkpoint-api.hashicorp.com/v1/check/terraform | jq -r -M '.current_version')
 # Download the Terraform zip file
 curl -LO "https://releases.hashicorp.com/terraform/${CURR_VER}/terraform_${CURR_VER}_linux_amd64.zip"
@@ -11,8 +13,6 @@ sudo mv terraform /usr/local/bin/
 sudo chmod +x /usr/local/bin/terraform
 # Clean up
 rm "terraform_${CURR_VER}_linux_amd64.zip"
-sudo apt-get install -y jq
-sudo apt-get install -y zip unzip
 sudo apt-get install -y awscli
 sudo apt-get install -y gnupg software-properties-common
 sudo apt-get update -y
